@@ -7,3 +7,4 @@ Hungkv-test3
 hungkv-test rebase commit 1
 hungkv-test rebase commit 2
 hungkv-test merge commit 1
+hungkv-test merge commit 2
