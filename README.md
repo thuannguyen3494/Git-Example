@@ -42,3 +42,4 @@ git config --global push.default simple
   - Clone the repo
   - Edit files
   - Commit and push to Github
+  - read me
